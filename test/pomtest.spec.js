@@ -1,0 +1,1 @@
+await inventoryPage.addBackpackToCart();
